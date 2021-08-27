@@ -347,6 +347,10 @@ ul {
 .advanced .price {
   color: var(--orange-bg-color);
 }
+.pro .term,
+.pro .price {
+  color: var(--blue-bg-color);
+}
 
 #basicPr {
   background-color: var(--red-bg-color);
@@ -577,6 +581,8 @@ footer a {
   color: black;
 }
 
+
+/* CON Now section*/
 .conNow {
   background-color: black;
 }
